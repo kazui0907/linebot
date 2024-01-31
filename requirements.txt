@@ -1,0 +1,10 @@
+# FlaskはWebアプリケーションのフレームワークです
+Flask==2.0.1
+
+# LINE Messaging APIのPython SDK
+line-bot-sdk==1.19.0
+
+# OpenAIのGPTモデルを使用するためのSDK
+openai==0.10.2
+
+# その他の依存関係があれば、ここに追加します
